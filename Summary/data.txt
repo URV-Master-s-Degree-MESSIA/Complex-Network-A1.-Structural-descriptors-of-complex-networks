@@ -1,0 +1,4 @@
+Graph name: Datasets/net1.net | Nodes: 5000 | Edges: 25000 | Min degree: 6 | Max degree: 16 | Avg degree: 10.00 | Avg clustering: 0.4141 | Assortativity: -0.0097 | Avg path length: 5.12 | Diameter: 8
+Graph name: Datasets/net2.net | Nodes: 5000 | Edges: 24873 | Min degree: 1 | Max degree: 24 | Avg degree: 9.95 | Avg clustering: 0.0021 | Assortativity: -0.0057 | Avg path length: 3.96 | Diameter: 7
+Graph name: Datasets/net3.net | Nodes: 5000 | Edges: 23508 | Min degree: 3 | Max degree: 732 | Avg degree: 9.40 | Avg clustering: 0.0862 | Assortativity: -0.1339 | Avg path length: 3.01 | Diameter: 5
+Graph name: Datasets/net4.net | Nodes: 5000 | Edges: 24975 | Min degree: 5 | Max degree: 210 | Avg degree: 9.99 | Avg clustering: 0.0107 | Assortativity: -0.0325 | Avg path length: 3.49 | Diameter: 5

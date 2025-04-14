@@ -1,0 +1,34 @@
+Top 5 Degree Centrality:
+Node 1581: 0.0048
+Node 787: 0.0046
+Node 52: 0.0042
+Node 1990: 0.0042
+Node 2372: 0.0042
+
+Top 5 Betweenness Centrality:
+Node 1581: 0.0033
+Node 787: 0.0026
+Node 4382: 0.0025
+Node 52: 0.0023
+Node 2375: 0.0023
+
+Top 5 Eigenvector Centrality:
+Node 1581: 0.0412
+Node 3233: 0.0343
+Node 787: 0.0341
+Node 2375: 0.0337
+Node 131: 0.0335
+
+Top 5 Closeness Centralities:
+Node 1581: 0.2844
+Node 2375: 0.2800
+Node 3233: 0.2791
+Node 131: 0.2784
+Node 787: 0.2782
+
+Top 5 PageRank Centralities:
+Node 1581: 0.0004
+Node 787: 0.0004
+Node 1990: 0.0004
+Node 2372: 0.0004
+Node 52: 0.0004

@@ -1,0 +1,34 @@
+Top 5 Degree Centrality:
+Node 5: 0.1464
+Node 7: 0.1382
+Node 2: 0.1252
+Node 0: 0.1240
+Node 6: 0.1110
+
+Top 5 Betweenness Centrality:
+Node 5: 0.1378
+Node 7: 0.1277
+Node 0: 0.1113
+Node 2: 0.1093
+Node 6: 0.0943
+
+Top 5 Eigenvector Centrality:
+Node 5: 0.2592
+Node 7: 0.2417
+Node 2: 0.2254
+Node 0: 0.2254
+Node 3: 0.2070
+
+Top 5 Closeness Centralities:
+Node 5: 0.5236
+Node 7: 0.5180
+Node 0: 0.5131
+Node 2: 0.5131
+Node 3: 0.5067
+
+Top 5 PageRank Centralities:
+Node 5: 0.0136
+Node 7: 0.0128
+Node 2: 0.0116
+Node 0: 0.0115
+Node 6: 0.0102
